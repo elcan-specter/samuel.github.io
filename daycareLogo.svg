@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 9.2px;
+      }
+
+      .cls-2 {
+        fill: #282973;
+        font-family: Impact, Impact;
+        font-size: 60px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="316.5" cy="406.5" r="221.5"/>
+  <image width="933" height="897" transform="translate(176.8 247.2) scale(.3)" xlink:href="../Downloads/Capture.JPG"/>
+  <text class="cls-2" transform="translate(210.8 554.7)"><tspan x="0" y="0">Daycare</tspan></text>
+</svg>
